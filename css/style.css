@@ -1,0 +1,39 @@
+/* heder stle */
+.header-style {
+    width: 1595.79px;
+    display: inline-block;
+    margin-top: 69px;
+    margin-bottom: 69px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-style {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 150px;
+    padding-left: 162px;
+    padding-top: 5.36px;
+    padding-bottom: 5.36px;
+}
+.page-style {
+    display: inline-block;
+    
+    
+}
+.li-ithem {
+    display: inline-block;
+    vertical-align: middle;
+}
+.pages-stile2 {
+    font-size: 20px;
+    color: #274C5B;
+    padding-top: 15.36;
+    padding-bottom: 15.36;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.actyv {
+    color: red;
+}
